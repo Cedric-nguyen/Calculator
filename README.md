@@ -1,1 +1,0 @@
-# AH-DTDM_NhomLucky_Calculator
