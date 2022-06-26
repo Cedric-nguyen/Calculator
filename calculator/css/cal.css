@@ -60,6 +60,7 @@ body{
 	margin:1% 1% 3% 1%;
 	border-radius:7px;
 	outline: none;
+	cursor: pointer;
 }
 
 #but-c:hover{
@@ -76,6 +77,8 @@ body{
 	margin:1% 1% 3% 1%;
 	border-radius:7px;
 	outline: none;
+	cursor: pointer;
+
 }
 #but-op:hover{
 background-color:blue;	
@@ -90,6 +93,7 @@ color:white;
 	font-size:250%;
 	margin:1% 1% 3% 1%;
 	border-radius:7px;
+	cursor: pointer;
 	outline: none;
 }
 #but-cl:hover{
@@ -105,6 +109,7 @@ color:white;
 	font-size:250%;
 	margin:1% 1% 3% 1%;
 	border-radius:7px;
+	cursor: pointer;
 	outline: none;
 }
 #but-pl:hover{
@@ -120,6 +125,7 @@ color:white;
 	font-size:250%;
 	margin:1% 1% 3% 1%;
 	border-radius:7px;
+	cursor: pointer;
 	outline: none;
 }
 #but-9:hover{
@@ -135,6 +141,7 @@ color:white;
 	font-size:250%;
 	margin:1% 1% 3% 1%;
 	border-radius:7px;
+	cursor: pointer;
 	outline: none;
 }
 #but-8:hover{
@@ -150,6 +157,7 @@ color:white;
 	font-size:250%;
 	margin:1% 1% 3% 1%;
 	border-radius:7px;
+	cursor: pointer;
 	outline: none;
 }
 #but-7:hover{
@@ -165,6 +173,7 @@ color:white;
 	font-size:250%;
 	margin:1% 1% 3% 1%;
 	border-radius:7px;
+	cursor: pointer;
 	outline: none;
 }
 #but-mi:hover{
@@ -180,6 +189,7 @@ color:white;
 	font-size:250%;
 	margin:1% 1% 3% 1%;
 	border-radius:7px;
+	cursor: pointer;
 	outline: none;
 }
 #but-6:hover{
@@ -195,6 +205,7 @@ color:white;
 	font-size:250%;
 	margin:1% 1% 3% 1%;
 	border-radius:7px;
+	cursor: pointer;
 	outline: none;
 }
 #but-5:hover{
@@ -210,6 +221,7 @@ color:white;
 	font-size:250%;
 	margin:1% 1% 3% 1%;
 	border-radius:7px;
+	cursor: pointer;
 	outline: none;
 }
 #but-4:hover{
@@ -225,6 +237,7 @@ color:white;
 	font-size:250%;
 	margin:1% 1% 3% 1%;
 	border-radius:7px;
+	cursor: pointer;
 	outline: none;
 }
 #but-x:hover{
@@ -240,6 +253,7 @@ color:white;
 	font-size:250%;
 	margin:1% 1% 3% 1%;
 	border-radius:7px;
+	cursor: pointer;
 	outline: none;
 }
 #but-3:hover{
@@ -255,6 +269,7 @@ color:white;
 	font-size:250%;
 	margin:1% 1% 3% 1%;
 	border-radius:7px;
+	cursor: pointer;
 	outline: none;
 }
 #but-2:hover{
@@ -270,6 +285,7 @@ color:white;
 	font-size:250%;
 	margin:1% 1% 3% 1%;
 	border-radius:7px;
+	cursor: pointer;
 	outline: none;
 }
 #but-1:hover{
@@ -285,6 +301,7 @@ color:white;
 	font-size:250%;
 	margin:1% 1% 3% 1%;
 	border-radius:7px;
+	cursor: pointer;
 	outline: none;
 }
 #but-di:hover{
@@ -300,6 +317,7 @@ color:white;
 	font-size:250%;
 	margin:1% 1% 3% 1%;
 	border-radius:7px;
+	cursor: pointer;
 	outline: none;
 }
 #but-0:hover{
@@ -315,6 +333,7 @@ color:white;
 	font-size:250%;
 	margin:1% 1% 3% 1%;
 	border-radius:7px;
+	cursor: pointer;
 	outline: none;
 }
 #but-do:hover{
@@ -330,6 +349,7 @@ color:white;
 	font-size:250%;
 	margin:1% 1% 3% 1%;
 	border-radius:7px;
+	cursor: pointer;
 	outline: none;
 }
 #but-eq:hover{
@@ -345,6 +365,7 @@ color:white;
 	font-size:250%;
 	margin:1% 1% 3% 1%;
 	border-radius:7px;
+	cursor: pointer;
 	outline: none;
 }
 #but-del:hover{
